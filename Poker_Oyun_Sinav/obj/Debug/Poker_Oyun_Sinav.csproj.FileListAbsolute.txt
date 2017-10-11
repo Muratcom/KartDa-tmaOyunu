@@ -1,0 +1,9 @@
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\bin\Debug\Poker_Oyun_Sinav.exe.config
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\bin\Debug\Poker_Oyun_Sinav.exe
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\bin\Debug\Poker_Oyun_Sinav.pdb
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\obj\Debug\Poker_Oyun_Sinav.csprojResolveAssemblyReference.cache
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\obj\Debug\Poker_Oyun_Sinav.Form1.resources
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\obj\Debug\Poker_Oyun_Sinav.Properties.Resources.resources
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\obj\Debug\Poker_Oyun_Sinav.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\obj\Debug\Poker_Oyun_Sinav.exe
+C:\Users\murat\Desktop\C# Projects\Poker_Oyun_Sinav\Poker_Oyun_Sinav\obj\Debug\Poker_Oyun_Sinav.pdb
